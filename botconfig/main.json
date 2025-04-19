@@ -9,7 +9,7 @@
     "developerID": [
         "870179991462236170"
     ],
-    "mongooseConnectionString": "mongodb+srv://CodeXpvt:GodCodeX@codexpvt.izfnc7r.mongodb.net/?retryWrites=true&w=majority&appName=CodeXpvt",
+    "mongooseConnectionString": "mongodb+srv://Foxien227:Foxien227@cluster0.6yhoy9v.mongodb.net/?retryWrites=true&w=majority",
     "colorthemecode": "#87CEEB",
     "randomMessages_Cooldown": [
         "Wait Dont Spam...",
